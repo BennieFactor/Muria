@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.8.1
+Date: 2026-08-22
+  spoiled nerf:
+
+  Changes:
+    - Hydrogen chloride from biter eggs now takes 1 egg (-1) and hydrogen chloride from spoilage now takes 25 spoilage (+15).
+---------------------------------------------------------------------------------------------------
 Version: 1.8.0
 Date: 2026-08-18
   finally:

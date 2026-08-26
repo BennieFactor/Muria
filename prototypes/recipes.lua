@@ -394,7 +394,7 @@ data:extend{
     subgroup = "offworld-chlorine-compounds-production",
     order = "c",
     ingredients = {
-        {type = "item", name = "biter-egg",   amount = 2},
+        {type = "item", name = "biter-egg",   amount = 1},
         {type = "fluid", name = "water",   amount = 20},
     },
     results = {
@@ -414,7 +414,7 @@ data:extend{
     order = "b", 
     energy_required = 2,
     ingredients = {
-        {type = "item", name = "spoilage",   amount = 10},
+        {type = "item", name = "spoilage",   amount = 25},
         {type = "fluid", name = "water",   amount = 30},
     },
     results = {
